@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aubs7&show_icons=true&locale=en&layout=compact" alt="aubs7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aubs7&show_icons=true&locale=en" alt="aubs7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aubs7&" alt="aubs7" /></p>
