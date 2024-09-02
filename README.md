@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/user-attachments/assets/8762b6f0-3352-4b6b-ab16-e499742a7036)](http://aubrey-min9.infinityfreeapp.com/)
 <h1 align="center">Hey there! I'm Aubrey Min 👋</h1>
-<h3 align="center">I am a 4th year BS Computer Science student. </br> I aspire to become a professional data scientist / software developer soon!</h3>
+<h3 align="center">I am currently in my 4th year studying BS Computer Science. </br> I aspire to become a professional data scientist / software developer soon!</h3>
 
 - 🌱 I’m currently learning: **Python for NLP and Computer Vision**
 
