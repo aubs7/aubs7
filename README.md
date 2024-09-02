@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning: **Python for NLP and Computer Vision**
 
-- 👨‍💻 I also do graphic design! [Art Portfolio](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
+- 👨‍💻 Check out my pins or repositories for my projects.
+
+- ✨ I also do graphic design! [Art Portfolio](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
 - 📄 Know about my experiences: [Curriculum Vitae](https://drive.google.com/file/d/1Dunpr5O8hogQhvhQeK5tfYj2OOxYaZkr/view?usp=drive_link)
 
