@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/aubrey-min-lasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aubrey" height="30" width="40" /></a>
 <a href="https://fb.com/obre.min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obsmin" height="30" width="40" /></a>
 <a href="https://instagram.com/mintbrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintbrin" height="30" width="40" /></a>
-<a href="/http://aubrey-min9.infinityfreeapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://aubrey-min9.infinityfreeapp.com/" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
