@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/user-attachments/assets/8762b6f0-3352-4b6b-ab16-e499742a7036)](http://aubrey-min9.infinityfreeapp.com/)
 <h1 align="center">Hey there! I'm Aubrey Min 👋</h1>
-<h3 align="center">4th year BS Computer Science student. </br> and aspiring professional data scientist / software developer soon!</h3>
+<h3 align="center">4th year BS Computer Science student </br> and aspiring professional data scientist / software developer</h3>
 
 - 🌱 I’m currently learning: **Python for NLP and Computer Vision**
 
@@ -42,6 +42,8 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://www.opencv.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1662px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="40" height="40"/> </a>
+    <a href="https://app.powerbi.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
+    <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://assets.bizclikmedia.net/576/3f1025cca4c57ee5e107e87a85464c69:8398df919d887c405c3528f02d177b94/tableaulogo-highres.png" alt="Tableau" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
