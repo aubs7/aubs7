@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: [Curriculum Vitae](https://drive.google.com/file/d/1Dunpr5O8hogQhvhQeK5tfYj2OOxYaZkr/view?usp=drive_link)
 
-- 📫 How to reach me: aubrey.min9@gmail.com / aubrey.lasala@neu.edu.ph
+- 📫 How to reach me: aubrey.min9@gmail.com / aubreymin.lasala@neu.edu.ph
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
