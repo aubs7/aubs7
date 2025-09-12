@@ -2,15 +2,15 @@
 <h1 align="center">Hello! I'm Aubrey Min 👋</h1>
 <h3 align="center">BS Computer Science Graduate </br> and aspiring professional data scientist / software developer</h3>
 
-- 🌱 I’m currently learning: **Python for Data Analysis**
+- 🌱 I’m currently learning: **Python for Data Analysis with React.js on the side lolz**
 
 - 👨‍💻 Check out my pins or repositories for my projects.
 
 - ✨ I also do graphic design! [Art Portfolio](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
-- 📄 Know about my experiences: [Curriculum Vitae](https://drive.google.com/file/d/1Dunpr5O8hogQhvhQeK5tfYj2OOxYaZkr/view?usp=drive_link)
+- 📄 Know about my experiences: [Web Portfolio](https://aubs7.my.canva.site/)
 
-- 📫 How to reach me: aubrey.min9@gmail.com / aubreymin.lasala@neu.edu.ph
+- 📫 How to reach me: aubrey.min9@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
