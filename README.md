@@ -1,17 +1,17 @@
-Hello! I'm Aubrey Min <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/good-evening-hand-wave.gif" height="50" />
-</br> BS Computer Science Graduate </br> and aspiring professional data scientist / software developer
+Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/good-evening-hand-wave.gif" height="25" />
+</br> Aspiring professional data scientist
 
-- 🌱 I’m currently learning: **Python for Data Analysis with React.js on the side lolz**
+- 🥇 Computer Science Graduate with a Service Award (2025)
 
-- 👨‍💻 Check out my pins or repositories for my projects.
+- 🌱 I’m currently learning: **how to nail tech interviews LOL**
 
-- ✨ I also do graphic design! [Art Portfolio](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
+- 📄 React.js portfolio in progress! Check out my WIP on [**canva**](https://aubs7.my.canva.site/) for now :'>
 
-- 📄 Know about my experiences: [Web Portfolio](https://aubs7.my.canva.site/)
+- ✨ On the side, I swim, read, judge shows and also do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
-- 📫 How to reach me: aubrey.min9@gmail.com
-
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 Check out my pins or repositories for coursework and projects.
+  
+Let's connect!
 <p align="left">
 <a href="https://linkedin.com/in/aubrey-min-lasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aubrey" height="30" width="40" /></a>
 <a href="https://fb.com/obre.min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obsmin" height="30" width="40" /></a>
