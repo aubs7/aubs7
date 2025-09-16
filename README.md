@@ -7,7 +7,7 @@ Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/goo
 
 📄 React.js portfolio in progress! Check out my WIP on [**canva**](https://aubs7.my.canva.site/) for now :'>
 
-✨ On the side, I swim, read, judge shows and also do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
+✨ On the side, I swim, read, watch horror movies and do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
 👨‍💻 Check out my pins or repositories for coursework and projects.
   
