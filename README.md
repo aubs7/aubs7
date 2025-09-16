@@ -1,5 +1,5 @@
 Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/good-evening-hand-wave.gif" height="25" />
-</br> Aspiring professional data scientist
+</br> Aspiring Professional Data Scientist
 
 - 🥇 Computer Science Graduate with a Service Award (2025)
 
