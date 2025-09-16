@@ -9,7 +9,7 @@ Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/sFdzKK1cHcsAAAAj/ast
 
 👧🏽 I also swim, read, watch horror movies and do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
-👨‍💻 Current tech I use:
+👨‍💻 Tech I currently use:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
