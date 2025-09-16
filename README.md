@@ -1,4 +1,4 @@
-Hello! I'm Aubrey Min <img src="![4c236364db3543337354bc3acc1fe792](https://github.com/user-attachments/assets/53d40659-7daf-452a-ba2c-2f155ca1ceeb)" height="50" />
+Hello! I'm Aubrey Min <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/good-evening-hand-wave.gif" height="50" />
 </br> BS Computer Science Graduate </br> and aspiring professional data scientist / software developer
 
 - 🌱 I’m currently learning: **Python for Data Analysis with React.js on the side lolz**
