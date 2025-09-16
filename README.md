@@ -1,21 +1,21 @@
 Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/good-evening-hand-wave.gif" height="25" />
 </br> Aspiring Professional Data Scientist
 
-- 🥇 Computer Science Graduate with a Service Award (2025)
+🥇 Computer Science Graduate with a Service Award (2025)
 
-- 🌱 I’m currently learning: **how to nail tech interviews LOL**
+🌱 I’m currently learning: **how to nail tech interviews LOL**
 
-- 📄 React.js portfolio in progress! Check out my WIP on [**canva**](https://aubs7.my.canva.site/) for now :'>
+📄 React.js portfolio in progress! Check out my WIP on [**canva**](https://aubs7.my.canva.site/) for now :'>
 
-- ✨ On the side, I swim, read, judge shows and also do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
+✨ On the side, I swim, read, judge shows and also do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
-- 👨‍💻 Check out my pins or repositories for coursework and projects.
+👨‍💻 Check out my pins or repositories for coursework and projects.
   
 Let's connect!
 <p align="left">
-<a href="https://linkedin.com/in/aubrey-min-lasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aubrey" height="30" width="40" /></a>
-<a href="https://fb.com/obre.min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obsmin" height="30" width="40" /></a>
-<a href="https://instagram.com/mintbrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintbrin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aubrey-min-lasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aubrey" height="30" width="30" /></a>
+<a href="https://fb.com/obre.min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obsmin" height="30" width="30" /></a>
+<a href="https://instagram.com/mintbrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintbrin" height="30" width="30" /></a>
   
 </p>
 
