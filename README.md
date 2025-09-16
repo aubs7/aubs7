@@ -5,7 +5,7 @@ Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/sFdzKK1cHcsAAAAj/ast
 
 🌱 I’m currently learning: **how to nail tech interviews LOL**
 
-📄 React.js portfolio in progress! Check out my WIP on [**canva**](https://aubs7.my.canva.site/) for now :'>
+📄 React.js portfolio in progress! Check out my [**canva portfolio**](https://aubs7.my.canva.site/) for now :'>
 
 👧🏽 I also swim, read, watch horror movies and do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
