@@ -1,4 +1,4 @@
-Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/good-evening-hand-wave.gif" height="25" />
+Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/sFdzKK1cHcsAAAAj/astronaut-tumble-astronaut.gif" height="25" />
 </br> Aspiring Professional Data Scientist
 
 🥇 Computer Science Graduate with a Service Award (2025)
@@ -7,7 +7,7 @@ Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/MdI9bTt7NMgAAAAj/goo
 
 📄 React.js portfolio in progress! Check out my WIP on [**canva**](https://aubs7.my.canva.site/) for now :'>
 
-✨ On the side, I swim, read, watch horror movies and do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
+👧🏽 On the side, I swim, read, watch horror movies and do [**graphic design!**](https://aubsmin.notion.site/art-f0e2fa243705467c9bf095fa4ed7f148?pvs=4)
 
 👨‍💻 Check out my pins or repositories for coursework and projects.
   
@@ -19,7 +19,7 @@ Let's connect!
   
 </p>
 
-Current tech
+Current tech I use
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="30" height="30"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
