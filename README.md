@@ -3,7 +3,7 @@ Hello! I'm **Aubrey Min** <img src="https://media.tenor.com/sFdzKK1cHcsAAAAj/ast
 
 🥇 Computer Science Graduate with a Service Award (2025)
 
-🌱 I’m currently learning: **how to nail tech interviews LOL**
+🌱 I’m currently learning: **Java Spring Boot**
 
 📄 React.js portfolio in progress! Check out my [**canva portfolio**](https://aubs7.my.canva.site/) for now :'>
 
